@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "GHBit": "github:lzty634158/GHBit#bbbe5f812211ee7b1576bbb046b981339dca5bbc"
+        "GHBit": "github:lzty634158/GHBit#bbbe5f812211ee7b1576bbb046b981339dca5bbc",
+        "pxt-kitronik-klip-motor": "github:kitronikltd/pxt-kitronik-klip-motor#v1.2.0"
     },
     "files": [
         "main.blocks",
@@ -16,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "5.0.12",
+        "target": "6.0.17",
         "targetId": "microbit"
     },
     "supportedTargets": [
